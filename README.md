@@ -9,5 +9,6 @@ Un blog increíble para el curso de Git y GitHub de [**Platzi**](https://platzi.
 * Los trucos bien locos del maestro Freddy
 * Creado por el increible Platzi Team
 * Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
 
 Y bien a destacar es, que est readme, es **Un ejemplo de mis aprendizajes y parte del curso de Git y GitHub**. Asi que te recomiendo que pases por Platzi y haga este curso si quieres aprender Git y GitHub [**Acá te dejare el enlace para que no cojas lucha**](https://platzi.com/new-home/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "Acá te dejare el enlace para que no cojas lucha")👌
